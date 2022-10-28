@@ -1,0 +1,59 @@
+body {
+    background-color: blue;
+}*/
+
+h1 #id header {
+    color: purple;
+}
+
+p {
+    font-size: 22px;
+    color: teal
+}
+
+h3 {
+    color: pink;
+
+    text-align: center;
+  }
+  
+  .container {
+    border: 2px solid blue;
+  
+    margin-top: 50px;
+    margin-right: 250px;
+    margin-bottom: 200px;
+    margin-left: 200px;
+  
+    padding: 20px 20px 20px 40px;
+  }
+  
+  p {
+    background-color: black;
+    color: brown;
+
+    border: 5px solid yellow;
+  }
+  
+  
+  #margin-experiment-1, #margin-experiment-2 {
+   margin: 0;
+  }
+  
+  .margin-experiment-3 {
+    margin: 5px 10px 20px 0;
+    padding: 10px;
+  }
+  
+  .padded-container {
+    border: 2px solid navy;
+    margin: 50px;
+    padding: 20px 20px 20px 40px;
+  }
+  
+  #padding-experiment-1 {
+    border: 2px solid orange;
+    margin: 42px;
+    padding: 18px;
+  }
+   
